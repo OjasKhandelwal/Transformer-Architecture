@@ -5,7 +5,7 @@ class Embeddings(nn.Module):
     """
     Embeddings module.
     
-    This implements the embeddings as described in the paper:
+    This implements the embeddings:
     - Word embeddings
     - Positional encoding
     """
