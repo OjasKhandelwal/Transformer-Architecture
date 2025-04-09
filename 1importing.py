@@ -2,7 +2,7 @@
 Transformer Architecture Implementation
 
 This package contains a complete implementation of the Transformer architecture
-as described in the paper "Attention is All You Need" by Vaswani et al.
+as described in the most goated research paper "Attention is All You Need".
 """
 
 from .model import Transformer
