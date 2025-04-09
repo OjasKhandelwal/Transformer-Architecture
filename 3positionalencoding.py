@@ -6,7 +6,7 @@ class PositionalEncoding(nn.Module):
     """
     Positional Encoding module.
     
-    This implements the positional encoding described in the paper:
+    This implements the positional encoding :
     PE(pos, 2i) = sin(pos / 10000^(2i/d_model))
     PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
     """
