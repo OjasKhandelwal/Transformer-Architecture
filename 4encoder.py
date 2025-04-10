@@ -8,7 +8,7 @@ class EncoderLayer(nn.Module):
     """
     Encoder Layer module.
     
-    This implements a single encoder layer as described in the paper:
+    This implements a single encoder layer :
     - Multi-head self-attention
     - Position-wise feed-forward network
     - Residual connections and layer normalization
